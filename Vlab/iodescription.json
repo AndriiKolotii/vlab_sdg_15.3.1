@@ -1,0 +1,26 @@
+{
+  "inputs": [
+    {
+      "id": "DataObject_0h3a3ff",
+      "inputType": "individual",
+      "valueType": "value",
+      "description": "URL to download LCC map",
+      "name": "Ukraine LCC map 2000-2016",
+      "obligation": true,
+      "hasDefault": false,
+      "valueSchema": "url",
+      "target": "data/ukraine_lc_2000_2016.zip"
+ }
+  ],
+  "outputs": [
+    {
+      "id": "DataObject_0n95v5p",
+      "outputType": "individual",
+      "valueType": "value",
+      "description": "Class count area",
+      "name": "Class count areas",
+      "valueSchema": "url",
+      "target": "data/count.txt"
+ }
+  ]
+}

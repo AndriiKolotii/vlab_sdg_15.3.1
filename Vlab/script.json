@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    {
+      "repoPath": "run.sh",
+      "targetPath": "run.sh",
+      "pathType": "FILE"
+ },
+    {
+      "repoPath": "count.py",
+      "targetPath": "count.py",
+      "pathType": "FILE"
+ }
+  ]
+}

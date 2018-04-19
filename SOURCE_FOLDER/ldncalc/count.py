@@ -24,4 +24,6 @@ def  get_count_equel(tif_path,chislo,ker):
             s=s+0.0
             #s=s*900/10000000
     return s
-print(get_count_equel('/tmp/Ukraine_map_7_cl_trans_00_16_no_city.tif',11,1000))
+print(get_count_equel('/tmp/Ukraine_map_7_cl_trans_00_16_no_city.tif',12,1000))
+print(get_count_equel('/tmp/Ukraine_map_7_cl_trans_00_16_no_city.tif',13,1000))
+print(get_count_equel('/tmp/Ukraine_map_7_cl_trans_00_16_no_city.tif',16,1000))

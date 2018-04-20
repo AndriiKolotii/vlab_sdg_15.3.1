@@ -20,7 +20,7 @@
       "description": "Class count area",
       "name": "Class count areas",
       "valueSchema": "url",
-      "target": "/tmp/count.txt"
+      "target": "data/count.txt"
  }
   ]
 }
